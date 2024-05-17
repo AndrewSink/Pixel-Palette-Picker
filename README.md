@@ -22,7 +22,6 @@ Pixel Palette Picker is a web application that allows users to upload an image, 
 3. **View Palette**: See the extracted palette of 8 random colors from the image.
 4. **Hover for Tooltip**: Hover over any color in the palette to see a tooltip with its RGB and HEX values.
 5. **Randomize Palette**: Click the "Randomize Palette" button to generate a new random palette.
-6. **Share Palette**: Click the "Share Palette" button to copy the palette colors as a screenshot for sharing.
 
 ## Files
 
