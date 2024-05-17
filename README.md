@@ -1,3 +1,6 @@
+Try it out: 
+
+<img width="837" alt="Pixel Palette Picker" src="https://github.com/AndrewSink/Pixel-Palette-Picker/assets/46334898/012d201e-c0ee-4d91-9d42-b7b9cafe4b7b">
 
 # Pixel Palette Picker
 
