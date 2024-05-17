@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Pixel Palette Picker
+        </title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+
+    <body>
+        <div class="container">
+            <h1>Pixel Palette Picker
+            </h1>
+            <div id="colorInfo">
+                <div id="colorPreview"></div>
+                <div>
+                    <p>RGB: <span id="rgbValue">-</span></p>
+                    <p>HEX: <span id="hexValue">-</span></p>
+                </div>
+            </div>
+            <div id="palette">
+                <p>Palette:</p>
+                <div id="paletteColors"></div>
+            </div>
+            <br>
+            <div id="randomize">
+                <button id="randomize" type="button">Randomize Palette</button>
+            </div>
+            <br>
+            <br>
+            <input type="file" id="imageUploader" accept="image/*">
+            <div id="canvasContainer">
+                <canvas id="canvas"></canvas>
+                <div id="magnifier"></div>
+            </div>
+            <div id="footer">
+                <h3><a href="https://andrewsink.xyz/">Andrew Sink - 2024</a>
+                </h3>
+            </div>
+        </div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.js"></script>
+        <script src="script.js"></script>
+    </body>
+
+</html>
