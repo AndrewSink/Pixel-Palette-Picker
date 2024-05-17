@@ -1,6 +1,6 @@
 Try it out: https://andrewsink.github.io/Pixel-Palette-Picker/
 
-<img width="837" alt="Pixel Palette Picker" src="https://github.com/AndrewSink/Pixel-Palette-Picker/assets/46334898/012d201e-c0ee-4d91-9d42-b7b9cafe4b7b">
+<img width="831" alt="Pixel Palette Picker2" src="https://github.com/AndrewSink/Pixel-Palette-Picker/assets/46334898/baba6ad4-bdf0-455f-9b8f-fc4be7178675">
 
 # Pixel Palette Picker
 
