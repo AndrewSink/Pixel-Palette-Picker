@@ -23,12 +23,6 @@ Pixel Palette Picker is a web application that allows users to upload an image, 
 4. **Hover for Tooltip**: Hover over any color in the palette to see a tooltip with its RGB and HEX values.
 5. **Randomize Palette**: Click the "Randomize Palette" button to generate a new random palette.
 
-## Files
-
-- `index.html`: The main HTML file that contains the structure of the web application.
-- `styles.css`: The CSS file for styling the web application.
-- `script.js`: The JavaScript file that contains the logic for image upload, color picking, palette extraction, and sharing features.
-
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
